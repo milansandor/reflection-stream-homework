@@ -35,7 +35,7 @@ public class Homework1 {
      * Prints the declared methods of java.lang.String with two or more parameters whose parameters are all of the same type, sorted by name.
      */
     public void streamPipeline3() {
-
+        // TODO
     }
 
     /**
